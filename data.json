@@ -89,6 +89,22 @@
     },
     {
         "Status": "Solved",
+        "Title": "Physical Training",
+        "Date": "21 Nox, 2023",
+        "Description": "Product Training by person.",
+        "Category": "Support",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Solved",
+        "Title": "Several Small Tweaks",
+        "Date": "21 Nox, 2023",
+        "Description": "Via WhatsApp and Call.",
+        "Category": "Support",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Solved",
         "Title": "Image Problem",
         "Date": "01 Oct, 2023",
         "Description": "Issue has been fixed.",
