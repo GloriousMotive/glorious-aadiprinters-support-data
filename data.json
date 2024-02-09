@@ -1,26 +1,98 @@
 [
     {
-        "Status": "Open",
-        "Title": "Issue with printer setup",
+        "Status": "Solved",
+        "Title": "Add Order Button",
         "Date": "10 Feb, 2024",
-        "Description": "Having trouble setting up the printer in the office. Need assistance ASAP.",
-        "Category": "Monthly Support",
+        "Description": "Redirecting to Checout.",
+        "Category": "Support",
         "Reply_Link": "https://example.com/reply/1"
     },
     {
         "Status": "Solved",
-        "Title": "Billing Inquiry",
-        "Date": "05 Feb, 2024",
-        "Description": "Customer has a question regarding their billing statement. Already resolved.",
-        "Category": "Customization",
-        "Reply_Link": "https://example.com/reply/1"
+        "Title": "Email - Remove Shipping Vat",
+        "Date": "15 Dec, 2023",
+        "Description": "Issue has been fixed.",
+        "Category": "Support",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Solved",
+        "Title": "Password Change",
+        "Date": "10 Dec, 2023",
+        "Description": "Issue has been fixed.",
+        "Category": "Support",
+        "Reply_Link": "#"
     },
     {
         "Status": "Closed",
-        "Title": "Error Message on Website",
-        "Date": "01 Feb, 2024",
-        "Description": "Some users are encountering an error message when accessing the website. Issue has been fixed.",
-        "Category": "Others",
-        "Reply_Link": "https://example.com/reply/1"
+        "Title": "GST Bill",
+        "Date": "27 Nov, 2023",
+        "Description": "Customer Did't Reply.",
+        "Category": "Support",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Solved",
+        "Title": "Spam & Security",
+        "Date": "25 Nov, 2023",
+        "Description": "Issue has been fixed.",
+        "Category": "Support",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Solved",
+        "Title": "Website Speed",
+        "Date": "25 Nov, 2023",
+        "Description": "Issue has been fixed.",
+        "Category": "Support",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Open",
+        "Title": "Automatic Backup",
+        "Date": "25 Nov, 2023",
+        "Description": "Gdrive Not Provided.",
+        "Category": "Support",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Closed",
+        "Title": "Product Time Small",
+        "Date": "01 Oct, 2023",
+        "Description": "Rejected.",
+        "Category": "OFS",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Solved",
+        "Title": "Product Description Change",
+        "Date": "22 Nov, 2023",
+        "Description": "Issue has been fixed.",
+        "Category": "Support",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Solved",
+        "Title": "Slow Loading",
+        "Date": "22 Nov, 2023",
+        "Description": "Speed Optimized.",
+        "Category": "Support",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Solved",
+        "Title": "Product Visibility",
+        "Date": "21 Nox, 2023",
+        "Description": "From 1 to Stamp 10.",
+        "Category": "Support",
+        "Reply_Link": "#"
+    },
+    {
+        "Status": "Solved",
+        "Title": "Image Problem",
+        "Date": "01 Oct, 2023",
+        "Description": "Issue has been fixed.",
+        "Category": "Support",
+        "Reply_Link": "#"
     }
 ]
