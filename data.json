@@ -1,23 +1,26 @@
 [
     {
         "Status": "Open",
-        "Title": "Issue with Printer Setup",
-        "Date": "09 Feb, 2024",
-        "Description": "Customers are having trouble setting up the printer. Need assistance ASAP.",
-        "Category": "Monthly Support"
+        "Title": "Issue with printer setup",
+        "Date": "10 Feb, 2024",
+        "Description": "Having trouble setting up the printer in the office. Need assistance ASAP.",
+        "Category": "Monthly Support",
+        "Reply_Link": "https://example.com/reply/1"
     },
     {
         "Status": "Solved",
         "Title": "Billing Inquiry",
         "Date": "05 Feb, 2024",
         "Description": "Customer has a question regarding their billing statement. Already resolved.",
-        "Category": "Customization"
+        "Category": "Customization",
+        "Reply_Link": "https://example.com/reply/1"
     },
     {
         "Status": "Closed",
         "Title": "Error Message on Website",
         "Date": "01 Feb, 2024",
         "Description": "Some users are encountering an error message when accessing the website. Issue has been fixed.",
-        "Category": "Others"
+        "Category": "Others",
+        "Reply_Link": "https://example.com/reply/1"
     }
 ]
